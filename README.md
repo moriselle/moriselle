@@ -20,8 +20,10 @@
 
 ## 👩🏻‍💻 Experience
 **AIFFEL Research 14th | MODULABS | 2025.07. - 2026.01.**
+- Completed hands-on deep learning projects across NLP and computer vision, from model implementation to fine-tuning and evaluation
 
 **Undergraduate Student Researcher | JBNU Cognitive Computing Lab | 2022.07. - 2025.02.**
+- Participated in collaborative research projects, deep learning experiments, and paper discussions on NLP and machine translation
 <br/>
 
 ## 🏆 Honors & Awards
