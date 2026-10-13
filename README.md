@@ -1,7 +1,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=588beb&text=JEONGMIN&height=200&fontSize=90&fontColor=ffffff)
 
-## ⭐ Hi, I'm JeongMin Lim
+## ⭐ Hi, I'm Jeongmin Lim
 > I explore multilingual modeling, Korean NLP, and trustworthy AI as an aspiring NLP and speech-language AI researcher.  
 > I build practical AI systems that turn research ideas into real-world language technologies.
   
