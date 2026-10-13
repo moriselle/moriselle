@@ -11,7 +11,7 @@
 
 ## 🎓 Education
 **University of Edinburgh (2026.09. – Present)**
-- M.S. in Speech and Language Processing
+- MSc in Speech and Language Processing
 
 **Jeonbuk National University (2020.03. - 2025.08.)**
 - B.A. in English Language and English Literature
