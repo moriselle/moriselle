@@ -9,10 +9,10 @@
 <br/>
 
 ## 🎓 Education
-**University of Edinburgh (2026.09. – Present)**
+**University of Edinburgh | 2026.09. – Present**
 - MSc in Speech and Language Processing
 
-**Jeonbuk National University (2020.03. - 2025.08.)**
+**Jeonbuk National University | 2020.03. - 2025.08.**
 - B.A. in English Language and English Literature
 - B.S. in Computer Science and Engineering
 <br/>
