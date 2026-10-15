@@ -2,8 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=588beb&text=JEONGMIN&height=200&fontSize=90&fontColor=ffffff)
 
 ## ⭐ Hi, I'm Jeongmin Lim
-> I explore multilingual modeling, Korean NLP, and trustworthy AI as an aspiring NLP and speech-language AI researcher.  
-> I build practical AI systems that turn research ideas into real-world language technologies.
+> Interested in NLP, speech and language AI, and multilingual modeling, with a focus on Korean NLP and trustworthy AI.
   
 - Sharing projects and updates at https://moriselle.github.io/
 - Technical notes at https://ljm1614.tistory.com/
